@@ -1,18 +1,5 @@
-# New documentation
-
-New documentation has been created as `.media/Trajectory-Linear-Circular.pdf`. Please refer ther for a more in depth introduction to the code and project. 
-
 ## Some useful commands
-
 You can find some useful commands here `./how-to-run.md`. Also, `./commands.md` has some useful utilities for working with real robot.
-
-#  Readme part from Professor
-
-
-```sh
-git clone git@gitlab.lrz.de:00000000014B74D8/assignment-2-group-1.git
-git checkout main
-```
 
 ## Setup
 Modify the `.env` file replacing
