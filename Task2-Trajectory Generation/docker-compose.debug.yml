@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  dockerros1:
-    image: dockerros1
-    build:
-      context: .
-      dockerfile: ./Dockerfile
