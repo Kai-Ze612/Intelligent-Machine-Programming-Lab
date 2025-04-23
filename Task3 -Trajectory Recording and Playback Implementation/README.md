@@ -60,17 +60,17 @@ Our analysis examines several factors affecting trajectory replay accuracy:
 
 2. Run trajectory recording:
    ```
-   ./examples/02_trajectory_recording
+   ./02_trajectory_recording
    ```
 
 3. Run trajectory replay:
    ```
-   ./examples/04_replay_trajectory
+   ./04_replay_trajectory
    ```
 
 4. Analyze results:
    ```
-   jupyter notebook examples/05_generate_plot_trajectory.ipynb
+   jupyter notebook 05_generate_plot_trajectory.ipynb
    ```
 
 ## Requirements
