@@ -1,5 +1,8 @@
-## The demo videos are documented: 
-https://1drv.ms/f/s!ApjXPmewijhuzIYywlM5ao0sXWdFaQ?e=1Wud02
+## Demo Videos:
+All demo videos are documented here: https://1drv.ms/f/s!ApjXPmewijhuzIYywlM5ao0sXWdFaQ?e=1Wud02
+
+## Results:
+The task report is documented in Task2-Trajectory Generation.pdf
 
 ## Some useful commands
 You can find some useful commands here `./how-to-run.md`. Also, `./commands.md` has some useful utilities for working with real robot.
