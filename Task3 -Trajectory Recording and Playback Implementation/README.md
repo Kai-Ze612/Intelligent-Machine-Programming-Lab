@@ -82,4 +82,4 @@ Our analysis examines several factors affecting trajectory replay accuracy:
 
 ## Documentation
 
-See `doc/IMPLAssignment3.pdf` for detailed information about the methodology and analysis results.
+See `IMPLAssignment3.pdf` for detailed information about the methodology and analysis results.
